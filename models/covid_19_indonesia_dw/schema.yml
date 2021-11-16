@@ -1,0 +1,12 @@
+
+version: 2
+
+models:
+    - name: location
+      description: "Contains Province/Country names with corresponding demographic info."
+
+    - name: covid_stats_country
+      description: "Contains Covid_19 statistics on Country Granularity."
+
+    - name: covid_stats_province
+      description: "Contains Covid_19 statistics on Province Granularity."
